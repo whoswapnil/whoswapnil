@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **MERN , DATA-STRUCTURES**
 
-- 📫 How to reach me **whoswapnil@gmail.com**
+- 📫 reach me at **whoswapnil@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 
